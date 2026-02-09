@@ -52,7 +52,7 @@ Este proyecto esta licenciado bajo la WTFPL – [Do What the Fuck You Want to Pu
 
 <div align="center">
 
-**📋 Desarrollado como parte del curriculum de 42 School 📋**
+**🔍 Desarrollado como parte del curriculum de 42 School 🔍**
 
 *"Because you can't protect what you can't seey"*
 
