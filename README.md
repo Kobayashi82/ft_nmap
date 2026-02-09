@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="/ft_nmap.png">
+  <img src="/W_ft_nmap.png">
 </div>
 
 # ft_nmap
