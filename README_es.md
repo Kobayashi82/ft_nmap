@@ -2,10 +2,10 @@
 
 ![WIP](https://img.shields.io/badge/work%20in%20progress-yellow?style=for-the-badge)
 ![System & Kernel](https://img.shields.io/badge/System-brown?style=for-the-badge)
-![Interactive](https://img.shields.io/badge/Interactive-Selection-blue?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network-Scanner-blue?style=for-the-badge)
 ![C Language](https://img.shields.io/badge/Language-C-red?style=for-the-badge)
 
-*Una reimplementacion del comando select clasico*
+*Una reimplementacion del comando nmap clasico*
 
 </div>
 
@@ -54,6 +54,6 @@ Este proyecto esta licenciado bajo la WTFPL – [Do What the Fuck You Want to Pu
 
 **📋 Desarrollado como parte del curriculum de 42 School 📋**
 
-*"Your choice, your way"*
+*"Because you can't protect what you can't seey"*
 
 </div>
