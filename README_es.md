@@ -54,6 +54,6 @@ Este proyecto esta licenciado bajo la WTFPL – [Do What the Fuck You Want to Pu
 
 **🔍 Desarrollado como parte del curriculum de 42 School 🔍**
 
-*"Because you can't protect what you can't seey"*
+*"Because you can't protect what you can't see"*
 
 </div>
