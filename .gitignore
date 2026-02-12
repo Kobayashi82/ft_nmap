@@ -8,6 +8,9 @@
 !doc/**
 doc/ft_nmap\ 4.0.pdf
 
+!images
+!images/**
+
 !inc
 !inc/**
 
@@ -19,5 +22,3 @@ doc/ft_nmap\ 4.0.pdf
 !README.md
 !README_es.md
 !LICENSE
-!ft_nmap.png
-!W_ft_nmap.png
